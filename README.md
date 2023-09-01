@@ -33,4 +33,18 @@ git add .
 git commit -m "commit despues del tag"
 
 # push despues del tag
-git push
+git push -u origin main
+
+# Crear la tabla
+| Nombre | GitHub |
+|--------------|--------------|
+| Miguel De Robles | MDeRobles |
+| Valeria Gutierrez | valgd |
+| Victor Pacheco | XxXelbichoXxX |
+| Sebastián Medina | SebastianMedina2023 |
+| Alan Medina | Rockoletal |
+
+# despues de la tabla
+git add .
+git commit -m "commit despues de la tabla"
+git push -u origin main
